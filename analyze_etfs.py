@@ -6,7 +6,7 @@ from sklearn.preprocessing import MinMaxScaler
 
 # Load your JP Morgan ETF dataset
 # Replace 'your_etf_data.csv' with the actual file path or URL
-etf_data = pd.read_csv('your_etf_data.csv')
+etf_data = pd.read_csv('data.csv')
 
 # Data Preprocessing
 # (You may need to customize this based on your dataset)
